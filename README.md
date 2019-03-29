@@ -4,7 +4,7 @@ How to do this:
 Embed youtube videos into website
 Change background picture
 Change lots of stuffs:
-Change hamburger thing to be Home (most recommended/most liked posts) - Practice - About - Contact
+Change hamburger thing to be Home (most recommended/most liked posts) - Practice - Musi Hacks- About 
 
 Home:
 spotlight(the first thing you see on the page): Musician of the month (different musician everytime)
