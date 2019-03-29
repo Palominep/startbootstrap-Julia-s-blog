@@ -6,7 +6,14 @@ Change background picture
 Change lots of stuffs:
 Change hamburger thing to be Home (most recommended/most liked posts) - Practice - About - Contact
 
-Home: "If you can play it slow, you can play it faster"- some wise men said (lol Twoset https://www.youtube.com/channel/UCAzKFALPuF_EPe-AEI0WFFw)
+Home:
+spotlight(the first thing you see on the page): Musician of the month (different musician everytime)
+a little about them
+some of their best pieces
+
+(Afterwards- there would be a space in between:)
+
+"If you can play it slow, you can play it faster"- some wise men said (lol Twoset https://www.youtube.com/channel/UCAzKFALPuF_EPe-AEI0WFFw)
 -Halidon music https://www.youtube.com/channel/UCyOfqgtsQaM3S-VZnsYnHjQ
 -smalin https://www.youtube.com/user/smalin/featured
 -The Piano Guys https://www.youtube.com/user/ThePianoGuys/featured
@@ -21,9 +28,15 @@ shares
 
 likes
 
+spotify- link to my spotify account ad you can shuffle through all the music I post on this website
+
 Practice - websites and helpful books for learning music
 -musictheory.net
 -music theory books- the ones Joy gave me
+
+Musi Hacks:
+-where people can share their own music hacks- enter Username- Share your hack   
+-recording band music practice and recording yourself to see if it sounds the same- lol (Lealle's hack)
 
 About- Me
 -Currently learning how to play the violin
@@ -31,6 +44,3 @@ About- Me
 -I like sharing the music I like with others
 -I can code (YEE)
 -My favorite subject is history- Go American Revolution!!!
-
-Contact-
-Where people can email me
