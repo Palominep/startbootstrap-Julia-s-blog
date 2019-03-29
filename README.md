@@ -5,6 +5,7 @@ Embed youtube videos into website
 Change background picture
 Change lots of stuffs:
 Change hamburger thing to be Home (most recommended/most liked posts) - Practice - About - Contact
+
 Home: "If you can play it slow, you can play it faster"- some wise men said (lol Twoset https://www.youtube.com/channel/UCAzKFALPuF_EPe-AEI0WFFw)
 -Halidon music https://www.youtube.com/channel/UCyOfqgtsQaM3S-VZnsYnHjQ
 -smalin https://www.youtube.com/user/smalin/featured
@@ -18,7 +19,7 @@ comments
 
 shares
 
-likes 
+likes
 
 Practice - websites and helpful books for learning music
 -musictheory.net
